@@ -13,7 +13,7 @@ using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 using System.Security.Permissions;
 
-[assembly: AssemblyTitle ("Gendarme")]
+[assembly: AssemblyTitle("Gendarme (Secure-Decisions-Build-4_17_2014)")]
 [assembly: AssemblyDescription ("Rule-based assembly analyzer")]
 [assembly: AssemblyCopyright ("Copyright (C) 2005-2011 Novell, Inc. and contributors")]
 [assembly: AssemblyCompany ("Novell, Inc.")]

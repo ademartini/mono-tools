@@ -74,7 +74,7 @@ namespace Test.Rules.NUnit {
 		// [Test] -- added later using Cecil to avoid NUnit treating this as a unit test
 		private void GoodOneBadAssert ()
 		{
-			Assert.LessOrEqual (10, 20);
+			//Assert.LessOrEqual (10, 20);
 		}
 
 		// [Test] -- added later using Cecil to avoid NUnit treating this as a unit test
